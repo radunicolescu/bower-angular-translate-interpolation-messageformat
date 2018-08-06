@@ -20,6 +20,6 @@
   "homepage": "https://angular-translate.github.io",
   "dependencies": {
     "angular-translate": "~2.18.1",
-    "messageformat": "~1.1.0"
+    "messageformat": "~2.0.4"
   }
 }
